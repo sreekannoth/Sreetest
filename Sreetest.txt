@@ -4,7 +4,13 @@ I have made some changes
 
 Lets do one more change
 
+<<<<<<< HEAD
 Feature:
 =======
 Adding my first feature to this code..
 Adding second feature to this code..
+=======
+making many changes in the main file..
+
+I am done with my changes to main file
+>>>>>>> 681e25842b155518ad1f1cc0a782f6545e307608
